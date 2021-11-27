@@ -1,0 +1,11 @@
+.btn-apply {
+	background-color: #FC997C;
+	color: #D06224;
+	border-radius: 8px;
+	transition: background 0.2s;
+	padding: 8px 24px;
+}
+
+.btn-apply:hover {
+	background-color:  #AE431E;
+}
