@@ -11,6 +11,7 @@
 	border-radius: 3px;
 	box-shadow: 0px 0px 2px darkgray;
 	padding: 30px;
+	box-shadow: 1px 1px 2px gray;
 }
 
 .cards .card img {
@@ -21,4 +22,12 @@
 	font-size: 32px;
 }
 
+.cards .card img {
+  height: 100px;
+  padding-left: 3px;
+}
+
+.card h3 {
+	margin-top: 0px;
+}
 

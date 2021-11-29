@@ -1,0 +1,51 @@
+.price-container {
+	padding: 16px;
+	margin: 8px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.price-card {
+  /*border: 1px solid black;*/
+  height: fit-content;
+  border-radius: 5px;
+  box-shadow: 1px 1px 2px gray;
+  margin: 8px;
+  padding: 8px;
+  width: fit-content;
+  background-color: #F0ECE3;
+}
+
+.card h1 {
+    margin-top: 0px;
+}
+.card p {
+    margin-top: 0px;
+}
+
+.price-card:hover {
+	background-color: #E5890A;
+	color: ghostwhite;
+}
+
+
+.fas.fa-check {
+	color: darkgreen;
+   margin-right: 8px;
+}
+
+.fas.fa-times {
+	color: darkred;
+  margin-right: 8px;
+}
+
+.fa-ul {
+	display: inline-block;
+	margin: 0px;
+	padding: 4px;
+}
+
+.fa-ul > li {
+    position: relative;
+    padding-bottom: 8px;
+}
